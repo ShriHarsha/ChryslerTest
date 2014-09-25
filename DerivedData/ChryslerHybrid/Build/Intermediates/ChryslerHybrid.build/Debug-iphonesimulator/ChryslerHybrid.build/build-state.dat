@@ -1,0 +1,599 @@
+TChryslerHybrid
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Intermediates/PrecompiledHeaders/ChryslerHybrid-Prefix-bimywcinhjrjkycwoqnyqthlhuxh/ChryslerHybrid-Prefix.pch.pch ChryslerHybird/ChryslerHybrid-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/ChryslerHybrid/Build/Intermediates/ChryslerHybrid.build/Debug-iphonesimulator/ChryslerHybrid.build/Objects-normal/i386/main.o /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/ChryslerHybrid/Build/Intermediates/ChryslerHybrid.build/Debug-iphonesimulator/ChryslerHybrid.build/Objects-normal/i386/CHAppDelegate.o /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/CHAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/ChryslerHybrid/Build/Intermediates/ChryslerHybrid.build/Debug-iphonesimulator/ChryslerHybrid.build/Objects-normal/i386/CHViewController.o /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/CHViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app/ChryslerHybrid normal i386
+cCpResource contentFolder DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app/contentFolder
+cCompileStoryboard /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/Base.lproj/Main_iPad.storyboard
+cCpResource Config.json DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app/Config.json
+cCompileStoryboard /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/Base.lproj/Main_iPhone.storyboard
+cCpResource ChryslerHybird/icons DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app/icons
+cCopyStringsFile /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app/en.lproj/InfoPlist.strings ChryslerHybird/en.lproj/InfoPlist.strings
+cCompileAssetCatalog /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/Images.xcassets
+cProcessInfoPlistFile /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app/Info.plist /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/ChryslerHybrid-Info.plist
+cGenerateDSYMFile /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app.dSYM /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app/ChryslerHybrid
+cTouch /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c000000005369E4BD00000000000003B4
+t1399448765
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005369E4C8000000000000019E
+t1399448776
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000005369E4CA0000000000484210
+t1399448778
+s4735504
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Accelerate.framework/Accelerate
+c000000005369E4C900000000000085D0
+t1399448777
+s34256
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000005369E4CA000000000058E0E0
+t1399448778
+s5824736
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000005369E4CA00000000006CED60
+t1399448778
+s7138656
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000005369E4CB0000000000446820
+t1399448779
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000005369E4CA00000000000F1A80
+t1399448778
+s989824
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c000000005369E4CC00000000002FC3B0
+t1399448780
+s3130288
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005369E4CD000000000088D8C0
+t1399448781
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+c000000005369E4CE000000000067F940
+t1399448782
+s6814016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000005369E4CE00000000002E6B60
+t1399448782
+s3042144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c000000005369E4CE0000000000799E30
+t1399448782
+s7970352
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MessageUI.framework/MessageUI
+c000000005369E4CF00000000002E5520
+t1399448783
+s3036448
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000005369E4CF000000000048F720
+t1399448783
+s4781856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuickLook.framework/QuickLook
+c000000005369E4CF0000000000184FD0
+t1399448783
+s1593296
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+c000000005369E4D0000000000013FD70
+t1399448784
+s1310064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/StoreKit.framework/StoreKit
+c000000005369E4D0000000000006E450
+t1399448784
+s451664
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000005369E4D000000000001081C0
+t1399448784
+s1081792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000005369E4D30000000001F1DE10
+t1399448787
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libsqlite3.dylib
+c000000005369E4EB00000000001D35B0
+t1399448811
+s1914288
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libstdc++.dylib
+c000000005369E4EB000000000018DF40
+t1399448811
+s1630016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libz.dylib
+c000000005369E4EB000000000002B700
+t1399448811
+s177920
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c000000005369E5390000000000000ADC
+t1399448889
+s2780
+
+N/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/Base.lproj/Main_iPad.storyboard
+c0000000053FAC6AB0000000000000715
+t1408943787
+s1813
+
+N/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/Base.lproj/Main_iPhone.storyboard
+c0000000053FAC6AB000000000000071D
+t1408943787
+s1821
+
+N/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/CHAppDelegate.m
+c0000000053FACB1C0000000000000B75
+t1408944924
+s2933
+
+N/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/CHViewController.m
+c000000005405B3DE0000000000000F72
+t1409659870
+s3954
+
+N/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/ChryslerHybrid-Info.plist
+c0000000053FCD6DF00000000000008F2
+t1409079007
+s2290
+
+N/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/ChryslerHybrid-Prefix.pch
+c0000000053FAD9AB0000000000000158
+t1408948651
+s344
+
+N/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/Images.xcassets
+c0000000054081CC20000000000000088
+t1409817794
+s136
+
+N/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/en.lproj/InfoPlist.strings
+c0000000053FAC6AB000000000000002D
+t1408943787
+s45
+
+N/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/icons
+c0000000053FCC5D10000000000000110
+t1409074641
+s272
+
+N/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/libVisionLibrary.a
+c0000000053FCD53B00000000050219B4
+t1409078587
+s84023732
+
+N/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/main.m
+c0000000053FAC6AB000000000000016E
+t1408943787
+s366
+
+N/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/Config.json
+c000000005411044C000000000000010F
+t1410401356
+s271
+
+N/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Intermediates/ChryslerHybrid.build/Debug-iphonesimulator/ChryslerHybrid.build/Objects-normal/i386/CHAppDelegate.o
+t1410401612
+s69328
+
+N/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Intermediates/ChryslerHybrid.build/Debug-iphonesimulator/ChryslerHybrid.build/Objects-normal/i386/CHViewController.o
+t1410401612
+s52268
+
+N/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Intermediates/ChryslerHybrid.build/Debug-iphonesimulator/ChryslerHybrid.build/Objects-normal/i386/ChryslerHybrid.LinkFileList
+c000000005411054B000000000000027F
+t1410401611
+s639
+
+N/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Intermediates/ChryslerHybrid.build/Debug-iphonesimulator/ChryslerHybrid.build/Objects-normal/i386/main.o
+t1410401612
+s3636
+
+N/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Intermediates/ChryslerHybrid.build/Debug-iphonesimulator/ChryslerHybrid.build/assetcatalog_dependencies.txt
+t1410401624
+s744
+
+N/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Intermediates/ChryslerHybrid.build/Debug-iphonesimulator/ChryslerHybrid.build/assetcatalog_generated_info.plist
+t1410401624
+s714
+
+N/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Intermediates/PrecompiledHeaders/ChryslerHybrid-Prefix-bimywcinhjrjkycwoqnyqthlhuxh/ChryslerHybrid-Prefix.pch.pch
+t1410401611
+s123916
+
+N/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app
+t1410401624
+s442
+
+N/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app.dSYM
+t2
+s0
+
+N/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app/Base.lproj/Main_iPad.storyboardc
+t1410401624
+s170
+
+N/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app/Base.lproj/Main_iPhone.storyboardc
+t1410401624
+s170
+
+N/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app/ChryslerHybrid
+t1410401613
+s5117864
+
+N/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app/Config.json
+t1410401613
+s271
+
+N/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app/Info.plist
+t1410401624
+s1822
+
+N/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app/PkgInfo
+t1410401624
+s8
+
+N/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app/contentFolder
+t1410401613
+s136
+
+N/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app/en.lproj/InfoPlist.strings
+t1410401613
+s42
+
+N/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app/icons
+t1410401613
+s238
+
+N/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/contentFolder
+c0000000053FAC97C00000000000000AA
+t1408944508
+s170
+
+CBuild AST from /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/CHAppDelegate.m
+r0
+
+CBuild AST from /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/CHViewController.m
+r0
+
+CBuild AST from /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencieseb529bcb3cc1b941^eba8b2cb3cc1b941^---0#1#1#--18"Check dependencies36"5666C4B4-94F3-46CB-A060-8B65B3BE0FBE-
+
+CCompileAssetCatalog /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/Images.xcassets
+s432094413.084326
+e432094424.947346
+r1
+xCompileAssetCatalog
+x/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app
+x/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/Images.xcassets
+o/* com.apple.actool.document.warnings */
+o/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/Images.xcassets:./AppIcon.appiconset: warning: A 60x60@2x app icon is required for iPhone apps targeting iOS 7.0 and later
+o/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/Images.xcassets:./AppIcon.appiconset: warning: A 76x76 app icon is required for iPad apps targeting iOS 7.0 and later
+o/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/Images.xcassets:./AppIcon.appiconset: warning: A 76x76@2x app icon is required for iPad apps targeting iOS 7.0 and later
+o/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/Images.xcassets:./AppIcon.appiconset/[ipad][29x29][2x]: warning: AppIcon.appiconset/Icon-72-2.png is 72x72 but should be 58x58.
+o/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/Images.xcassets:./AppIcon.appiconset/[iphone][29x29][2x]: warning: AppIcon.appiconset/Icon-72-1.png is 72x72 but should be 58x58.
+o/* com.apple.actool.document.notices */
+o/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/Images.xcassets:./AppIcon.appiconset/[ipad][72x72][1x]: notice: 72x72 app icons only apply to iPad apps targeting releases of iOS prior to 7.0
+o/* com.apple.actool.compilation-results */
+o/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app/AppIcon72x72~ipad.png
+o/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app/LaunchImage-700-568h@2x.png
+o/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app/Assets.car
+o/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Intermediates/ChryslerHybrid.build/Debug-iphonesimulator/ChryslerHybrid.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection133"CompileAssetCatalog DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app ChryslerHybird/Images.xcassets133"CompileAssetCatalog DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app ChryslerHybird/Images.xcassets9ab415cd3cc1b941^3788f2d83cc1b941^-2113"/* com.apple.actool.document.warnings *//Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/Images.xcassets:./AppIcon.appiconset: warning: A 60x60@2x app icon is required for iPhone apps targeting iOS 7.0 and later/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/Images.xcassets:./AppIcon.appiconset: warning: A 76x76 app icon is required for iPad apps targeting iOS 7.0 and later/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/Images.xcassets:./AppIcon.appiconset: warning: A 76x76@2x app icon is required for iPad apps targeting iOS 7.0 and later/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/Images.xcassets:./AppIcon.appiconset/[ipad][29x29][2x]: warning: AppIcon.appiconset/Icon-72-2.png is 72x72 but should be 58x58./Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/Images.xcassets:./AppIcon.appiconset/[iphone][29x29][2x]: warning: AppIcon.appiconset/Icon-72-1.png is 72x72 but should be 58x58./* com.apple.actool.document.notices *//Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/Images.xcassets:./AppIcon.appiconset/[ipad][72x72][1x]: notice: 72x72 app icons only apply to iPad apps targeting releases of iOS prior to 7.0/* com.apple.actool.compilation-results *//Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app/AppIcon72x72~ipad.png/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app/LaunchImage-700-568h@2x.png/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app/Assets.car/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Intermediates/ChryslerHybrid.build/Debug-iphonesimulator/ChryslerHybrid.build/assetcatalog_generated_info.plist5(21%IDEActivityLogMessage2@75"A 60x60@2x app icon is required for iPhone apps targeting iOS 7.0 and later-432094424#18446744073709551615#0#-1#-23%DVTTextDocumentLocation3@106"file:///Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/Images.xcassets/0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Asset Catalog Compiler Warning--2@70"A 76x76 app icon is required for iPad apps targeting iOS 7.0 and later-432094424#18446744073709551615#0#-1#-3@106"file:///Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/Images.xcassets/0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Asset Catalog Compiler Warning--2@73"A 76x76@2x app icon is required for iPad apps targeting iOS 7.0 and later-432094424#18446744073709551615#0#-1#-3@106"file:///Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/Images.xcassets/0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Asset Catalog Compiler Warning--2@62"AppIcon.appiconset/Icon-72-2.png is 72x72 but should be 58x58.-432094424#18446744073709551615#0#-1#-3@106"file:///Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/Images.xcassets/0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Asset Catalog Compiler Warning--2@62"AppIcon.appiconset/Icon-72-1.png is 72x72 but should be 58x58.-432094424#18446744073709551615#0#-1#-3@106"file:///Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/Images.xcassets/0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Asset Catalog Compiler Warning--0#0#1#-19%DVTDocumentLocation4@106"file:///Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/Images.xcassets/0000000000000000^1468"CompileAssetCatalog DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app ChryslerHybird/Images.xcassets    cd /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Intermediates/ChryslerHybrid.build/Debug-iphonesimulator/ChryslerHybrid.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Intermediates/ChryslerHybrid.build/Debug-iphonesimulator/ChryslerHybrid.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.0 --target-device iphone --target-device ipad --compress-pngs --compile /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/Images.xcassets36"AE984ECF-2374-497A-9092-778F191D2C25-
+bB1420905-F81F-4AA0-A4CF-4A6FB4A51C04
+
+CCompileC DerivedData/ChryslerHybrid/Build/Intermediates/ChryslerHybrid.build/Debug-iphonesimulator/ChryslerHybrid.build/Objects-normal/i386/CHAppDelegate.o /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/CHAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s432094411.943625
+e432094412.212266
+r1
+xCompileC
+xDerivedData/ChryslerHybrid/Build/Intermediates/ChryslerHybrid.build/Debug-iphonesimulator/ChryslerHybrid.build/Objects-normal/i386/CHAppDelegate.o
+x/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/CHAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/CHAppDelegate.m
+d/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/CHAppDelegate.h
+d/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/VisionLibrary/ATKVision.h
+d/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/VisionLibrary/ATKAppDelegate.h
+d/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/VisionLibrary/ATKWebView.h
+d/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/VisionLibrary/ATKComponentViewControllerBase.h
+d/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/VisionLibrary/ATKWidget.h
+d/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/VisionLibrary/ATKControlBundle.h
+d/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/VisionLibrary/Constants.h
+d/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/VisionLibrary/ATKControlPackage.h
+d/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/VisionLibrary/ATKControlPackageStatus.h
+d/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/VisionLibrary/ATKControlPackageViewController.h
+d/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/VisionLibrary/ATKShelfManager.h
+d/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/VisionLibrary/ATKConfigManager.h
+d/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/CHViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/CHAppDelegate.m254"CompileC DerivedData/ChryslerHybrid/Build/Intermediates/ChryslerHybrid.build/Debug-iphonesimulator/ChryslerHybrid.build/Objects-normal/i386/CHAppDelegate.o ChryslerHybird/CHAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilere8bdf1cb3cc1b941^d65836cc3cc1b941^---0#0#1#-19%DVTDocumentLocation2@105"file:///Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/CHAppDelegate.m0000000000000000^4647"CompileC DerivedData/ChryslerHybrid/Build/Intermediates/ChryslerHybrid.build/Debug-iphonesimulator/ChryslerHybrid.build/Objects-normal/i386/CHAppDelegate.o ChryslerHybird/CHAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Intermediates/ChryslerHybrid.build/Debug-iphonesimulator/ChryslerHybrid.build/ChryslerHybrid-generated-files.hmap -I/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Intermediates/ChryslerHybrid.build/Debug-iphonesimulator/ChryslerHybrid.build/ChryslerHybrid-own-target-headers.hmap -I/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Intermediates/ChryslerHybrid.build/Debug-iphonesimulator/ChryslerHybrid.build/ChryslerHybrid-all-target-headers.hmap -iquote /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Intermediates/ChryslerHybrid.build/Debug-iphonesimulator/ChryslerHybrid.build/ChryslerHybrid-project-headers.hmap -I/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Intermediates/ChryslerHybrid.build/Debug-iphonesimulator/ChryslerHybrid.build/DerivedSources/i386 -I/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Intermediates/ChryslerHybrid.build/Debug-iphonesimulator/ChryslerHybrid.build/DerivedSources -F/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator -include /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Intermediates/PrecompiledHeaders/ChryslerHybrid-Prefix-bimywcinhjrjkycwoqnyqthlhuxh/ChryslerHybrid-Prefix.pch -MMD -MT dependencies -MF /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Intermediates/ChryslerHybrid.build/Debug-iphonesimulator/ChryslerHybrid.build/Objects-normal/i386/CHAppDelegate.d --serialize-diagnostics /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Intermediates/ChryslerHybrid.build/Debug-iphonesimulator/ChryslerHybrid.build/Objects-normal/i386/CHAppDelegate.dia -c /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/CHAppDelegate.m -o /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Intermediates/ChryslerHybrid.build/Debug-iphonesimulator/ChryslerHybrid.build/Objects-normal/i386/CHAppDelegate.o36"ED66BEF4-F280-4CF4-ADC0-4B4EE738E81E-
+bB1420905-F81F-4AA0-A4CF-4A6FB4A51C04
+
+CCompileC DerivedData/ChryslerHybrid/Build/Intermediates/ChryslerHybrid.build/Debug-iphonesimulator/ChryslerHybrid.build/Objects-normal/i386/CHViewController.o /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/CHViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s432094411.944155
+e432094412.197312
+r1
+xCompileC
+xDerivedData/ChryslerHybrid/Build/Intermediates/ChryslerHybrid.build/Debug-iphonesimulator/ChryslerHybrid.build/Objects-normal/i386/CHViewController.o
+x/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/CHViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/CHViewController.m
+d/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/CHViewController.h
+d/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/VisionLibrary/ATKVision.h
+d/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/VisionLibrary/ATKAppDelegate.h
+d/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/VisionLibrary/ATKWebView.h
+d/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/VisionLibrary/ATKComponentViewControllerBase.h
+d/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/VisionLibrary/ATKWidget.h
+d/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/VisionLibrary/ATKControlBundle.h
+d/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/VisionLibrary/Constants.h
+d/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/VisionLibrary/ATKControlPackage.h
+d/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/VisionLibrary/ATKControlPackageStatus.h
+d/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/VisionLibrary/ATKControlPackageViewController.h
+d/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/VisionLibrary/ATKShelfManager.h
+d/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/VisionLibrary/ATKConfigManager.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Compile /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/CHViewController.m260"CompileC DerivedData/ChryslerHybrid/Build/Intermediates/ChryslerHybrid.build/Debug-iphonesimulator/ChryslerHybrid.build/Objects-normal/i386/CHViewController.o ChryslerHybird/CHViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler59def1cb3cc1b941^d38332cc3cc1b941^---0#0#1#-19%DVTDocumentLocation2@108"file:///Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/CHViewController.m0000000000000000^4665"CompileC DerivedData/ChryslerHybrid/Build/Intermediates/ChryslerHybrid.build/Debug-iphonesimulator/ChryslerHybrid.build/Objects-normal/i386/CHViewController.o ChryslerHybird/CHViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Intermediates/ChryslerHybrid.build/Debug-iphonesimulator/ChryslerHybrid.build/ChryslerHybrid-generated-files.hmap -I/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Intermediates/ChryslerHybrid.build/Debug-iphonesimulator/ChryslerHybrid.build/ChryslerHybrid-own-target-headers.hmap -I/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Intermediates/ChryslerHybrid.build/Debug-iphonesimulator/ChryslerHybrid.build/ChryslerHybrid-all-target-headers.hmap -iquote /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Intermediates/ChryslerHybrid.build/Debug-iphonesimulator/ChryslerHybrid.build/ChryslerHybrid-project-headers.hmap -I/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Intermediates/ChryslerHybrid.build/Debug-iphonesimulator/ChryslerHybrid.build/DerivedSources/i386 -I/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Intermediates/ChryslerHybrid.build/Debug-iphonesimulator/ChryslerHybrid.build/DerivedSources -F/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator -include /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Intermediates/PrecompiledHeaders/ChryslerHybrid-Prefix-bimywcinhjrjkycwoqnyqthlhuxh/ChryslerHybrid-Prefix.pch -MMD -MT dependencies -MF /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Intermediates/ChryslerHybrid.build/Debug-iphonesimulator/ChryslerHybrid.build/Objects-normal/i386/CHViewController.d --serialize-diagnostics /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Intermediates/ChryslerHybrid.build/Debug-iphonesimulator/ChryslerHybrid.build/Objects-normal/i386/CHViewController.dia -c /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/CHViewController.m -o /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Intermediates/ChryslerHybrid.build/Debug-iphonesimulator/ChryslerHybrid.build/Objects-normal/i386/CHViewController.o36"2681510A-CE4B-4BB9-A27B-C7BC518207B1-
+bB1420905-F81F-4AA0-A4CF-4A6FB4A51C04
+
+CCompileC DerivedData/ChryslerHybrid/Build/Intermediates/ChryslerHybrid.build/Debug-iphonesimulator/ChryslerHybrid.build/Objects-normal/i386/main.o /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s432094411.943099
+e432094412.011030
+r1
+xCompileC
+xDerivedData/ChryslerHybrid/Build/Intermediates/ChryslerHybrid.build/Debug-iphonesimulator/ChryslerHybrid.build/Objects-normal/i386/main.o
+x/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/main.m
+d/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/CHAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compile /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/main.m236"CompileC DerivedData/ChryslerHybrid/Build/Intermediates/ChryslerHybrid.build/Debug-iphonesimulator/ChryslerHybrid.build/Objects-normal/i386/main.o ChryslerHybird/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler459df1cb3cc1b941^f6d402cc3cc1b941^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/main.m0000000000000000^4593"CompileC DerivedData/ChryslerHybrid/Build/Intermediates/ChryslerHybrid.build/Debug-iphonesimulator/ChryslerHybrid.build/Objects-normal/i386/main.o ChryslerHybird/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Intermediates/ChryslerHybrid.build/Debug-iphonesimulator/ChryslerHybrid.build/ChryslerHybrid-generated-files.hmap -I/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Intermediates/ChryslerHybrid.build/Debug-iphonesimulator/ChryslerHybrid.build/ChryslerHybrid-own-target-headers.hmap -I/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Intermediates/ChryslerHybrid.build/Debug-iphonesimulator/ChryslerHybrid.build/ChryslerHybrid-all-target-headers.hmap -iquote /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Intermediates/ChryslerHybrid.build/Debug-iphonesimulator/ChryslerHybrid.build/ChryslerHybrid-project-headers.hmap -I/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Intermediates/ChryslerHybrid.build/Debug-iphonesimulator/ChryslerHybrid.build/DerivedSources/i386 -I/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Intermediates/ChryslerHybrid.build/Debug-iphonesimulator/ChryslerHybrid.build/DerivedSources -F/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator -include /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Intermediates/PrecompiledHeaders/ChryslerHybrid-Prefix-bimywcinhjrjkycwoqnyqthlhuxh/ChryslerHybrid-Prefix.pch -MMD -MT dependencies -MF /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Intermediates/ChryslerHybrid.build/Debug-iphonesimulator/ChryslerHybrid.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Intermediates/ChryslerHybrid.build/Debug-iphonesimulator/ChryslerHybrid.build/Objects-normal/i386/main.dia -c /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/main.m -o /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Intermediates/ChryslerHybrid.build/Debug-iphonesimulator/ChryslerHybrid.build/Objects-normal/i386/main.o36"74C09795-6170-4353-9B41-421143067609-
+bB1420905-F81F-4AA0-A4CF-4A6FB4A51C04
+
+CCompileStoryboard /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/Base.lproj/Main_iPad.storyboard
+s432094413.082420
+e432094424.971998
+r1
+xCompileStoryboard
+x/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/Base.lproj/Main_iPad.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"CompileStoryboard ChryslerHybird/Base.lproj/Main_iPad.storyboard64"CompileStoryboard ChryslerHybird/Base.lproj/Main_iPad.storyboardf83615cd3cc1b941^2cd6f8d83cc1b941^---0#0#1#-19%DVTDocumentLocation2@121"file:///Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/Base.lproj/Main_iPad.storyboard0000000000000000^989"CompileStoryboard ChryslerHybird/Base.lproj/Main_iPad.storyboard    cd /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app/Base.lproj/Main_iPad.storyboardc /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/Base.lproj/Main_iPad.storyboard36"E79C636E-5A7D-45B2-873D-6BC13B846934-
+bB1420905-F81F-4AA0-A4CF-4A6FB4A51C04
+
+CCompileStoryboard /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/Base.lproj/Main_iPhone.storyboard
+s432094413.083018
+e432094424.983723
+r1
+xCompileStoryboard
+x/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/Base.lproj/Main_iPhone.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"CompileStoryboard ChryslerHybird/Base.lproj/Main_iPhone.storyboard66"CompileStoryboard ChryslerHybird/Base.lproj/Main_iPhone.storyboardb35d15cd3cc1b941^1fd6fbd83cc1b941^---0#0#1#-19%DVTDocumentLocation2@123"file:///Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/Base.lproj/Main_iPhone.storyboard0000000000000000^995"CompileStoryboard ChryslerHybird/Base.lproj/Main_iPhone.storyboard    cd /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app/Base.lproj/Main_iPhone.storyboardc /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/Base.lproj/Main_iPhone.storyboard36"A084A64A-262A-438F-ADC0-1E71C7E150F5-
+bB1420905-F81F-4AA0-A4CF-4A6FB4A51C04
+
+CCopyStringsFile /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app/en.lproj/InfoPlist.strings ChryslerHybird/en.lproj/InfoPlist.strings
+s432094413.083596
+e432094413.155182
+r1
+xCopyStringsFile
+x/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app/en.lproj/InfoPlist.strings
+xChryslerHybird/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy ChryslerHybird/en.lproj/InfoPlist.strings167"CopyStringsFile DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app/en.lproj/InfoPlist.strings ChryslerHybird/en.lproj/InfoPlist.strings5a8115cd3cc1b941^3cbc27cd3cc1b941^---0#0#1#-19%DVTDocumentLocation2@116"file:///Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/en.lproj/InfoPlist.strings0000000000000000^733"CopyStringsFile DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app/en.lproj/InfoPlist.strings ChryslerHybird/en.lproj/InfoPlist.strings    cd /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app/en.lproj -- ChryslerHybird/en.lproj/InfoPlist.strings36"D2FC8F63-EE70-43F7-958F-1BC06975513E-
+bB1420905-F81F-4AA0-A4CF-4A6FB4A51C04
+
+CCpResource ChryslerHybird/icons DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app/icons
+s432094413.083298
+e432094413.085826
+r1
+xCpResource
+xChryslerHybird/icons
+xDerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app/icons
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Copy DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app/icons120"CpResource ChryslerHybird/icons DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app/icons376e15cd3cc1b941^adf915cd3cc1b941^---0#0#1#-19%DVTDocumentLocation2@163"file:///Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app/icons00346cfadcffdf42^743"CpResource ChryslerHybird/icons DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app/icons    cd /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/icons /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app36"91485B52-2DB2-4303-B63D-AAEAE460F0D2-
+bB1420905-F81F-4AA0-A4CF-4A6FB4A51C04
+
+CCpResource Config.json DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app/Config.json
+s432094413.082695
+e432094413.085202
+r1
+xCpResource
+xConfig.json
+xDerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app/Config.json
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Copy DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app/Config.json117"CpResource Config.json DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app/Config.json975415cd3cc1b941^53d015cd3cc1b941^---0#0#1#-19%DVTDocumentLocation2@169"file:///Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app/Config.json00346cfadcffdf42^731"CpResource Config.json DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app/Config.json    cd /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/Config.json /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app36"BC39CBC6-C232-4E88-988B-ACCB15F1DF89-
+bB1420905-F81F-4AA0-A4CF-4A6FB4A51C04
+
+CCpResource contentFolder DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app/contentFolder
+s432094413.082162
+e432094413.462674
+r1
+xCpResource
+xcontentFolder
+xDerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app/contentFolder
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Copy DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app/contentFolder121"CpResource contentFolder DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app/contentFoldere52715cd3cc1b941^2e7376cd3cc1b941^---0#0#1#-19%DVTDocumentLocation2@171"file:///Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app/contentFolder00346cfadcffdf42^737"CpResource contentFolder DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app/contentFolder    cd /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/contentFolder /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app36"42448F7C-CD7C-4061-936F-E9F0D7F3A528-
+bB1420905-F81F-4AA0-A4CF-4A6FB4A51C04
+
+CGenerateDSYMFile /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app.dSYM /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app/ChryslerHybrid
+s432094424.988591
+e432094425.919083
+r1
+xGenerateDSYMFile
+x/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app.dSYM
+x/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app/ChryslerHybrid
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection164"Generate /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app.dSYM202"GenerateDSYMFile DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app.dSYM DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app/ChryslerHybridd926fdd83cc1b941^304bebd93cc1b941^---0#0#1#-19%DVTDocumentLocation2@162"file:///Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app.dSYM00346cfadcffdf42^898"GenerateDSYMFile DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app.dSYM DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app/ChryslerHybrid    cd /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app/ChryslerHybrid -o /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app.dSYM36"0595371C-835E-43F6-AE0B-D226735FA444-
+bB1420905-F81F-4AA0-A4CF-4A6FB4A51C04
+
+CLd /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app/ChryslerHybrid normal i386
+s432094412.214052
+e432094413.080568
+r1
+xLd
+x/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app/ChryslerHybrid
+xnormal
+xi386
+d/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Intermediates/ChryslerHybrid.build/Debug-iphonesimulator/ChryslerHybrid.build/Objects-normal/i386/ChryslerHybrid.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Intermediates/ChryslerHybrid.build/Debug-iphonesimulator/ChryslerHybrid.build/Objects-normal/i386/main.o
+d/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Intermediates/ChryslerHybrid.build/Debug-iphonesimulator/ChryslerHybrid.build/Objects-normal/i386/CHAppDelegate.o
+d/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Intermediates/ChryslerHybrid.build/Debug-iphonesimulator/ChryslerHybrid.build/Objects-normal/i386/CHViewController.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libc++.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libsqlite3.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libz.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Accelerate.framework/Accelerate
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuickLook.framework/QuickLook
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/StoreKit.framework/StoreKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/libVisionLibrary.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MessageUI.framework/MessageUI
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libc++abi.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/libAVFAudio.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vImage.framework/vImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vecLib.framework/vecLib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vecLib.framework/libvDSP.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_coreservices.dylib
+d/usr/lib/system/libsystem_coretls.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_networkextension.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libsystem_secinit.dylib
+d/usr/lib/system/libsystem_trace.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vecLib.framework/libLAPACK.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vecLib.framework/libBLAS.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vecLib.framework/libvMisc.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection170"Link /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app/ChryslerHybrid112"Ld DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app/ChryslerHybrid normal i3869eec36cc3cc1b941^6aa114cd3cc1b941^---0#0#1#--2261"Ld DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app/ChryslerHybrid normal i386    cd /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird    export IPHONEOS_DEPLOYMENT_TARGET=7.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator -L/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird -F/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator -filelist /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Intermediates/ChryslerHybrid.build/Debug-iphonesimulator/ChryslerHybrid.build/Objects-normal/i386/ChryslerHybrid.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -ObjC -all_load -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -lstdc++ -lsqlite3 -lz -framework Accelerate -framework Security -framework CoreText -framework QuickLook -framework SystemConfiguration -framework CFNetwork -framework CoreData -framework ImageIO -framework MediaPlayer -framework CoreLocation -framework MapKit -framework StoreKit -framework AVFoundation -framework CoreGraphics -lVisionLibrary -framework QuartzCore -framework MessageUI -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Intermediates/ChryslerHybrid.build/Debug-iphonesimulator/ChryslerHybrid.build/Objects-normal/i386/ChryslerHybrid_dependency_info.dat -o /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app/ChryslerHybrid36"B27DF48E-DDEC-49D3-92C0-C6AB8F63BF10-
+bB1420905-F81F-4AA0-A4CF-4A6FB4A51C04
+
+CProcessInfoPlistFile /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app/Info.plist /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/ChryslerHybrid-Info.plist
+s432094424.984638
+e432094424.987928
+r1
+xProcessInfoPlistFile
+x/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app/Info.plist
+x/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/ChryslerHybrid-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Process /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/ChryslerHybrid-Info.plist155"ProcessInfoPlistFile DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app/Info.plist ChryslerHybird/ChryslerHybrid-Info.pliste430fcd83cc1b941^a3e9fcd83cc1b941^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/ChryslerHybrid-Info.plist0000000000000000^1198"ProcessInfoPlistFile DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app/Info.plist ChryslerHybird/ChryslerHybrid-Info.plist    cd /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/ChryslerHybrid-Info.plist -genpkginfo /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Intermediates/ChryslerHybrid.build/Debug-iphonesimulator/ChryslerHybrid.build/assetcatalog_generated_info.plist -o /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app/Info.plist36"09A82C6C-1631-4131-8539-85981451FB0E-
+bB1420905-F81F-4AA0-A4CF-4A6FB4A51C04
+
+CProcessPCH /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Intermediates/PrecompiledHeaders/ChryslerHybrid-Prefix-bimywcinhjrjkycwoqnyqthlhuxh/ChryslerHybrid-Prefix.pch.pch ChryslerHybird/ChryslerHybrid-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s432094411.699220
+e432094411.941943
+r1
+xProcessPCH
+x/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Intermediates/PrecompiledHeaders/ChryslerHybrid-Prefix-bimywcinhjrjkycwoqnyqthlhuxh/ChryslerHybrid-Prefix.pch.pch
+xChryslerHybird/ChryslerHybrid-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/ChryslerHybrid-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Precompile ChryslerHybird/ChryslerHybrid-Prefix.pch266"ProcessPCH DerivedData/ChryslerHybrid/Build/Intermediates/PrecompiledHeaders/ChryslerHybrid-Prefix-bimywcinhjrjkycwoqnyqthlhuxh/ChryslerHybrid-Prefix.pch.pch ChryslerHybird/ChryslerHybrid-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerb62cb3cb3cc1b941^3a24f1cb3cc1b941^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/ChryslerHybrid-Prefix.pch0000000000000000^4452"ProcessPCH DerivedData/ChryslerHybrid/Build/Intermediates/PrecompiledHeaders/ChryslerHybrid-Prefix-bimywcinhjrjkycwoqnyqthlhuxh/ChryslerHybrid-Prefix.pch.pch ChryslerHybird/ChryslerHybrid-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Intermediates/ChryslerHybrid.build/Debug-iphonesimulator/ChryslerHybrid.build/ChryslerHybrid-generated-files.hmap -I/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Intermediates/ChryslerHybrid.build/Debug-iphonesimulator/ChryslerHybrid.build/ChryslerHybrid-own-target-headers.hmap -I/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Intermediates/ChryslerHybrid.build/Debug-iphonesimulator/ChryslerHybrid.build/ChryslerHybrid-all-target-headers.hmap -iquote /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Intermediates/ChryslerHybrid.build/Debug-iphonesimulator/ChryslerHybrid.build/ChryslerHybrid-project-headers.hmap -I/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Intermediates/ChryslerHybrid.build/Debug-iphonesimulator/ChryslerHybrid.build/DerivedSources/i386 -I/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Intermediates/ChryslerHybrid.build/Debug-iphonesimulator/ChryslerHybrid.build/DerivedSources -F/Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Intermediates/PrecompiledHeaders/ChryslerHybrid-Prefix-bimywcinhjrjkycwoqnyqthlhuxh/ChryslerHybrid-Prefix.pch.dia -MMD -MT dependencies -MF /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Intermediates/PrecompiledHeaders/ChryslerHybrid-Prefix-bimywcinhjrjkycwoqnyqthlhuxh/ChryslerHybrid-Prefix.pch.d -c /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/ChryslerHybird/ChryslerHybrid-Prefix.pch -o /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Intermediates/PrecompiledHeaders/ChryslerHybrid-Prefix-bimywcinhjrjkycwoqnyqthlhuxh/ChryslerHybrid-Prefix.pch.pch36"EC167D2F-5A56-4644-8C14-F7109E64B33D-
+bB1420905-F81F-4AA0-A4CF-4A6FB4A51C04
+
+CProcessPCH /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Index/PrecompiledHeaders/ChryslerHybrid-Prefix-ejyqqtsnnsrkmjekvvslcuigxwah_ast/ChryslerHybrid-Prefix.pch.pch ChryslerHybird/ChryslerHybrid-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/shriharsha/Vision/Chrysler_GitHub/Repo_Branch/ChryslerHybird/DerivedData/ChryslerHybrid/Build/Products/Debug-iphonesimulator/ChryslerHybrid.app
+r0
+
